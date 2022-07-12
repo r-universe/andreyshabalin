@@ -18,8 +18,3 @@
 	url = https://github.com/andreyshabalin/shiftr
 	shallow = true
 	registered = true
-[submodule "ramwas"]
-	path = ramwas
-	url = https://github.com/andreyshabalin/ramwas
-	shallow = true
-	registered = true
