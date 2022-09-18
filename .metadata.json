@@ -1,14 +1,13 @@
 [
   {
-    "package": "filematrix",
-    "oncran": true
-  },
-  {
     "package": "MatrixEQTL",
     "oncran": true
   },
   {
     "package": "shiftR",
     "oncran": true
+  },
+  {
+    "package": "ramwas"
   }
 ]
