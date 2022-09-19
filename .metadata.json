@@ -10,5 +10,8 @@
   {
     "package": "shiftR",
     "oncran": true
+  },
+  {
+    "package": "ramwas"
   }
 ]
