@@ -8,14 +8,14 @@
 	url = https://github.com/andreyshabalin/filematrix
 	shallow = true
 	registered = true
-[submodule "ramwas"]
-	path = ramwas
-	url = https://github.com/andreyshabalin/ramwas
-	shallow = true
-	registered = true
 [submodule "MatrixEQTL"]
 	path = MatrixEQTL
 	url = https://github.com/andreyshabalin/matrixeqtl
+	shallow = true
+	registered = true
+[submodule "ramwas"]
+	path = ramwas
+	url = https://github.com/andreyshabalin/ramwas
 	shallow = true
 	registered = true
 [submodule "shiftR"]
