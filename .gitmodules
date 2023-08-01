@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "filematrix"]
-	path = filematrix
-	url = https://github.com/andreyshabalin/filematrix
 [submodule "MatrixEQTL"]
 	path = MatrixEQTL
 	url = https://github.com/andreyshabalin/matrixeqtl
+[submodule "filematrix"]
+	path = filematrix
+	url = https://github.com/andreyshabalin/filematrix
 [submodule "ramwas"]
 	path = ramwas
 	url = https://github.com/andreyshabalin/ramwas
