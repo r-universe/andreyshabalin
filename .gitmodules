@@ -8,9 +8,6 @@
 [submodule "filematrix"]
 	path = filematrix
 	url = https://github.com/andreyshabalin/filematrix
-[submodule "ramwas"]
-	path = ramwas
-	url = https://github.com/andreyshabalin/ramwas
 [submodule "shiftR"]
 	path = shiftR
 	url = https://github.com/andreyshabalin/shiftr
